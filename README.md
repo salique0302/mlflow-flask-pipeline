@@ -53,7 +53,8 @@ Task_1_A/
 - **Features**: Pclass, Sex, Age, SibSp, Parch, Fare, Embarked
 - **Target**: Survival prediction (0/1)
 - **Accuracy**: ~80% on test set
-
+#SNIPPET
+<img src="https://github.com/salique0302/mlflow-flask-pipeline/blob/main/Screenshot%202025-07-22%20at%203.55.53%E2%80%AFAM.png"
 ### MLflow Integration
 - Experiment tracking and model versioning
 - Parameter and metric logging

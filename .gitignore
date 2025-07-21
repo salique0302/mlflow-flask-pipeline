@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+
+# Model and data files
+models/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# MLflow local files
+mlruns/

@@ -1,4 +1,4 @@
-# Task 1 Part A: ML Pipeline with MLflow and Flask API
+# ML Pipeline with MLflow and Flask API
 
 ## Overview
 This task implements a complete machine learning pipeline for Titanic passenger survival prediction. The pipeline includes data ingestion, model training with MLflow tracking, and deployment as a Flask REST API.
